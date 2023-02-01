@@ -17,7 +17,7 @@ https://github.com/cilium/ebpf/discussions/882
 -   In 2023, we're planning on publishing a site with documentation covering various topics on eBPF programming, built around the library
 -   For any ebpf-related questions, [StackOverflow](https://stackoverflow.com/questions/tagged/ebpf) and `#ebpf`/`#ebpf-go` on Cilium's Slack.
 
-### From Github 
+### From Github Community 
 
 - Awesome-ebpf: https://github.com/zoidbergwill/awesome-ebpf
 
